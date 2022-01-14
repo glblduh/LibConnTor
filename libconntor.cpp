@@ -1,3 +1,10 @@
+/* 
+
+    LibConnTor, a C++ library to easily connect to a Tor SOCKS5 proxy server
+    Created by glblduh
+
+*/
+
 #define _WINSOCK_DEPRECATED_NO_WARNINGS
 #define _CRT_SECURE_NO_WARNINGS
 #include "libconntor.h"
